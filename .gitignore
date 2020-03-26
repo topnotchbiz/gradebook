@@ -1,4 +1,6 @@
 .vs
 .vscode
-*/bin/
-*/obj/
+src/GradeBook/bin
+src/GradeBook/obj
+test/GradeBook.Tests/bin
+test/GradeBook.Tests/obj
