@@ -32,7 +32,11 @@
             "args": [
                 "watch",
                 "run",
+<<<<<<< HEAD
                 "${workspaceFolder}/src/GradeBook/GradeBook.csproj",
+=======
+                "${workspaceFolder}/GradeBook.csproj",
+>>>>>>> 5875ce4379bd3438311fc3b1980ac7145c70240f
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
